@@ -1,0 +1,18 @@
+# NAME: OpenAI
+DOMAIN,cdn.auth0.com,OpenAI
+DOMAIN-SUFFIX,auth0.com,OpenAI
+DOMAIN,challenges.cloudflare.com,OpenAI
+DOMAIN-SUFFIX,challenges.cloudflare.com,OpenAI
+DOMAIN,openaiapi-site.azureedge.net,OpenAI
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,OpenAI
+DOMAIN-SUFFIX,ai.com,OpenAI
+DOMAIN-SUFFIX,openai.com,OpenAI
+DOMAIN-KEYWORD,openai,OpenAI
+DOMAIN-SUFFIX,client-api.arkoselabs.com,OpenAI
+DOMAIN-SUFFIX,events.statsigapi.net,OpenAI
+DOMAIN-SUFFIX,featuregates.org,OpenAI
+DOMAIN-SUFFIX,identrust.com,OpenAI
+DOMAIN-SUFFIX,intercom.io,OpenAI
+DOMAIN-SUFFIX,intercomcdn.com,OpenAI
+DOMAIN-SUFFIX,sentry.io,OpenAI
+DOMAIN-SUFFIX,stripe.com,OpenAI
